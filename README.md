@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm srikanth-sri756</h1>
+<h1 align="center">Hi 👋, I'm Srikanth Palnati</h1>
 <h3 align="center">A passionate full stack developer in python, works on MACHINE LEARNING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth-sri756&label=Profile%20views&color=0e75b6&style=flat" alt="srikanth-sri756" /> </p>
