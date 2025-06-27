@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/psrikanth901" target="blank"><img src="https://img.shields.io/twitter/follow/psrikanth901?logo=twitter&style=for-the-badge" alt="psrikanth901" /></a> </p>
 
-- 👯 I’m collaborated with [CODEMACROCOSM](https://github.com/proaca)
+- 👯 I’m collaborated with [PROACA](https://github.com/proaca)
 
 - 👨‍💻 All of my projects are available at [https://codersflix.blogspot.com/](https://codersflix.blogspot.com/)
 
